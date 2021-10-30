@@ -1,0 +1,33 @@
+body{
+    font-family: 'Fruktur', cursive;
+    background:blanchedalmond;
+}
+.header_div{
+    background: blueviolet;
+    color: white;
+    font-variant: small-caps;
+}
+.header_div p{
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div button{
+    width: 130px;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+#copyrightfooter{
+    position : fixed;
+     bottom: 0;
+     width: 100%;
+     background: red;
+     text-align: center;
+     color:white;
+     line-height:2;
+     text-shadow: 5px 2px 2px silver;
+     letter-spacing: 5px;
+}
